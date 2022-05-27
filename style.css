@@ -1,0 +1,215 @@
+body{
+    margin: 0;
+    padding: 0;
+    overflow-x:hidden ;
+}
+*{
+    box-sizing: border-box;
+}
+.row-one {
+    background-color: rgb(249, 249, 249);
+}
+
+.row-two {
+    height: 500px;
+    background-color: rgb(249, 249, 249);
+}
+
+.row-three {
+    margin-left: 200px;
+}
+
+.box-email {
+    border: none;
+    width: 270px;
+    height: 40px;
+}
+
+.talk {
+    height: 40px;
+    width: 140px;
+    background-color: #000;
+    color: #fff;
+}
+
+.icons {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+.upWork {
+    background-color: #14A800;
+}
+
+.nike {
+    background-color: #2E8DF0;
+    width: 44px;
+    height: 44px;
+}
+
+.canva {
+    width: 44px;
+    height: 44px;
+}
+
+.woo {
+    width: 90px;
+    height: 90px;
+}
+
+.number {
+    background-color: #6E24FF;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    color: #fff;
+    padding-top: 14px;
+}
+
+.box {
+    width: 290px;
+    height: 330px;
+    background-color: rgb(249, 249, 249);
+}
+
+.start {
+    width: 136px;
+    height: 44px;
+    border: 2px solid #6E24FF;
+    color: #6E24FF;
+    background-color: #fff;
+    margin-left: 39px;
+}
+
+.learn {
+    width: 136px;
+    height: 44px;
+    border: 2px solid #6E24FF;
+    color: #6E24FF;
+    background-color: #fff;
+}
+
+.circle {
+    position: absolute;
+    top: 1615px;
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    background-color: #6E24FF;
+}
+
+.box-total {
+    width: 555px;
+    height: 280px;
+    background-color: rgb(249, 249, 249);
+}
+
+.drop {
+    border: 2px rgb(168, 159, 159) dashed;
+}
+
+.box-top {
+    position: absolute;
+    background-color: #fff;
+    left: 618px;
+    top: 1640px;
+    height: 76px;
+    box-shadow: -1px -1px 2000px rgb(172, 170, 170);
+}
+
+.box-buttom {
+    position: absolute;
+    left: 543px;
+    top: 1875px;
+    width: 298px;
+    height: 50px;
+    background-color: #fff;
+    box-shadow: -1px -1px 2000px rgb(172, 170, 170);
+}
+
+.browse {
+    color: rgb(60, 178, 101);
+}
+
+.row-four {
+    padding-top: 280px;
+}
+
+.plus {
+    color: rgb(75, 176, 110);
+    background-color: rgb(158, 234, 184);
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    font-size: 20px;
+}
+
+.picture {
+    width: 76px;
+    height: 66px;
+}
+
+.mail{
+    width: 221px;
+    height: 69px;
+}
+
+.foot{
+    width: 35px;
+    height: 35px;
+    border: 2px solid #3CB265;
+    border-radius: 50%;
+    padding: 4px;
+}
+
+.face{
+    width: 35px;
+    height: 35px;
+}
+
+.man{   
+    width: 421px;
+    height: 436px;
+}
+
+.row-five{
+    background-image: url("/assets/pngtree-abstract-background-technology-illustration-communication-data-security-image_435737.jpg");
+    background-repeat: no-repeat;
+    background-size:cover ;
+    height: 300px;
+}
+
+.c-one{
+    color: #fff;
+    font-size: 17px;
+}
+
+.c-two{
+    color: #fff;
+    border-top: 2px solid #fff;
+}
+
+.learn-two{
+    width: 100%;
+    border: none;
+    color:rgb(43,1,111);
+    height: 35px;
+}
+
+.email-box{
+    border: none;
+    background-color:rgb(249, 249, 249) ;
+    width: 383px;
+    height: 62px;
+}
+.arrow{
+    background-color: #6E24FF;
+    border: none;
+}
+
+.footer{
+    color:gray;
+    padding-left: 100px;
+}
+
